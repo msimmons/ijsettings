@@ -1,0 +1,2 @@
+# ijsettings
+Intellij settings repository
