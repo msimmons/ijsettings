@@ -1,0 +1,113 @@
+<application>
+  <component name="applicationConfig">
+    <option name="connections">
+      <list>
+        <ConnectionData>
+          <option name="driver" value="postgres" />
+          <option name="name" value="local-sandbox" />
+          <option name="password" value="password" />
+          <option name="url" value="jdbc:postgresql://localhost/sandbox" />
+          <option name="user" value="postgres" />
+        </ConnectionData>
+        <ConnectionData>
+          <option name="driver" value="postgres" />
+          <option name="name" value="local-mo" />
+          <option name="password" value="password" />
+          <option name="schemas">
+            <list>
+              <option value="mx" />
+            </list>
+          </option>
+          <option name="url" value="jdbc:postgresql://localhost/middle_out_test" />
+          <option name="user" value="mo" />
+        </ConnectionData>
+        <ConnectionData>
+          <option name="driver" value="postgres" />
+          <option name="name" value="dev.mx" />
+          <option name="password" value="cinchisacinch" />
+          <option name="schemas">
+            <list>
+              <option value="mx" />
+            </list>
+          </option>
+          <option name="url" value="jdbc:postgresql://postgres.dev.cinchfinancial.com/mx" />
+          <option name="user" value="cinch" />
+        </ConnectionData>
+        <ConnectionData>
+          <option name="driver" value="postgres" />
+          <option name="name" value="dev.auth" />
+          <option name="password" value="cinchisacinch" />
+          <option name="schemas">
+            <list>
+              <option value="auth" />
+            </list>
+          </option>
+          <option name="url" value="jdbc:postgresql://postgres.dev.cinchfinancial.com/auth" />
+          <option name="user" value="cinch" />
+        </ConnectionData>
+        <ConnectionData>
+          <option name="driver" value="postgres" />
+          <option name="name" value="local.mo_dev" />
+          <option name="password" value="password" />
+          <option name="schemas">
+            <list>
+              <option value="mo" />
+            </list>
+          </option>
+          <option name="url" value="jdbc:postgresql://localhost/middle_out_dev" />
+          <option name="user" value="mo" />
+        </ConnectionData>
+        <ConnectionData>
+          <option name="driver" value="postgres" />
+          <option name="name" value="dev.mo" />
+          <option name="password" value="cinchisacinch" />
+          <option name="schemas">
+            <list>
+              <option value="mo" />
+            </list>
+          </option>
+          <option name="url" value="jdbc:postgresql://postgres96.dev.cinchfinancial.com/client_api" />
+          <option name="user" value="cinch" />
+        </ConnectionData>
+        <ConnectionData>
+          <option name="driver" value="postgres" />
+          <option name="name" value="dev.wiretap" />
+          <option name="password" value="cinchisacinch" />
+          <option name="schemas">
+            <list>
+              <option value="wiretap" />
+            </list>
+          </option>
+          <option name="url" value="jdbc:postgresql://postgres.dev.cinchfinancial.com/wiretap" />
+          <option name="user" value="cinch" />
+        </ConnectionData>
+        <ConnectionData>
+          <option name="driver" value="postgres" />
+          <option name="name" value="dev.profile" />
+          <option name="password" value="cinchisacinch" />
+          <option name="schemas">
+            <list>
+              <option value="wiretap" />
+            </list>
+          </option>
+          <option name="url" value="jdbc:postgresql://postgres.dev.cinchfinancial.com/user_profile" />
+          <option name="user" value="cinch" />
+        </ConnectionData>
+      </list>
+    </option>
+    <option name="drivers">
+      <list>
+        <DriverData>
+          <option name="className" value="org.postgresql.Driver" />
+          <option name="jarFile" value="jar" />
+          <option name="name" value="postgres" />
+        </DriverData>
+        <DriverData>
+          <option name="className" value="a" />
+          <option name="jarFile" value="b" />
+          <option name="name" value="mysql" />
+        </DriverData>
+      </list>
+    </option>
+  </component>
+</application>
