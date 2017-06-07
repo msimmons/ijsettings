@@ -8,6 +8,7 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="n3" type="PLAIN_TEXT" />
       <mapping ext="w" type="PLAIN_TEXT" />
+      <mapping ext="g4" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
