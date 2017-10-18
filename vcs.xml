@@ -26,6 +26,10 @@
           <option name="url" value="https://github.com/cinch-financial/java-app.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/cinch-financial/auto-insurance-recommender.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/work" />
