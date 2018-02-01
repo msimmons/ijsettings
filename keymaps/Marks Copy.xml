@@ -144,11 +144,11 @@
   <action id="EditorSwapSelectionBoundaries" />
   <action id="EditorTextEnd">
     <keyboard-shortcut first-keystroke="ctrl end" />
-    <keyboard-shortcut first-keystroke="shift meta period" />
+    <keyboard-shortcut first-keystroke="ctrl meta period" />
   </action>
   <action id="EditorTextStart">
     <keyboard-shortcut first-keystroke="ctrl home" />
-    <keyboard-shortcut first-keystroke="shift meta comma" />
+    <keyboard-shortcut first-keystroke="ctrl meta comma" />
   </action>
   <action id="EditorToggleColumnMode">
     <keyboard-shortcut first-keystroke="shift meta r" />
