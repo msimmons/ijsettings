@@ -1,9 +1,0 @@
-<toolSet name="External Tools">
-  <tool name="mix test" description="Run mix test " showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="&quot;export GUARDIAN_SECRET_KEY=Bb8600/+v10V2S61QhKSR88q+cWXsAYnlCWVSYLYMli7Y6/lWT+3I/jLRhrUxeQK;export DATABASE_URL=postgres://mo@localhost/middle_out_test; mix test&quot;" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
-    </exec>
-  </tool>
-</toolSet>
