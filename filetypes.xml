@@ -1,0 +1,30 @@
+<application>
+  <component name="CommunityFileTypes" version="11">
+    <ignoreFiles list="CVS;SCCS;RCS;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;" />
+    <extensionMap>
+      <mapping pattern="README-xsd-documentation" type="PLAIN_TEXT" />
+      <mapping pattern="notes" type="PLAIN_TEXT" />
+      <mapping pattern="README-dev" type="PLAIN_TEXT" />
+      <mapping ext="bashrc" type="PLAIN_TEXT" />
+      <mapping ext="markdown" type="PLAIN_TEXT" />
+      <mapping ext="sdx" type="PLAIN_TEXT" />
+      <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping ext="vm" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext="tagx" type="XML" />
+      <mapping ext="jspx" type="XML" />
+    </extensionMap>
+    <setting name="fileTypeChangedCounter" value="1" />
+  </component>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="createPaymentRequest" type="Groovy" />
+      <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping ext="tab" type="PLAIN_TEXT" />
+      <mapping ext="g4" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

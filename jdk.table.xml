@@ -1,0 +1,180 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="1.7" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.7.0_80&quot;" />
+      <homePath value="/usr/lib/jvm/java-7-oracle" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/deploy.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/jce.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/javaws.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/management-agent.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/jfr.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/charsets.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/rt.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/jsse.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/jfxrt.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/plugin.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/resources.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/ext/sunec.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/ext/dnsns.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/ext/sunpkcs11.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/ext/zipfs.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/ext/localedata.jar!/" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar:///usr/lib/jvm/java-7-oracle/src.zip!/" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="1.8" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_151&quot;" />
+      <homePath value="/usr/lib/jvm/java-8-oracle" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/deploy.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/cldrdata.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/dnsns.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/jaccess.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/jfxrt.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/localedata.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/nashorn.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/sunec.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/sunpkcs11.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/zipfs.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/javaws.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/jce.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/jfxswt.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/management-agent.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/plugin.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/resources.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/rt.jar!/" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar:///usr/lib/jvm/java-8-oracle/src.zip!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-8-oracle/javafx-src.zip!/" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="IntelliJ IDEA Community Edition IC-143.1184.17" />
+      <type value="IDEA JDK" />
+      <version value="java version &quot;1.8.0_121&quot;" />
+      <homePath value="/opt/idea-IC-143.1184.17" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/deploy.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/cldrdata.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/dnsns.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/jaccess.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/jfxrt.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/localedata.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/nashorn.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/sunec.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/sunpkcs11.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/ext/zipfs.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/javaws.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/jce.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/jfxswt.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/management-agent.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/plugin.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/resources.jar!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/rt.jar!/" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar:///usr/lib/jvm/java-8-oracle/src.zip!/" type="simple" />
+            <root url="jar:///usr/lib/jvm/java-8-oracle/javafx-src.zip!/" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional sdk="1.8">
+        <option name="mySandboxHome" value="$USER_HOME$/.IdeaIC15/system/plugins-sandbox" />
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Elixir 1.4.0" />
+      <type value="Elixir SDK" />
+      <version value="Elixir 1.4.1" />
+      <homePath value="/usr/local/lib/elixir" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/local/lib/elixir/lib/ex_unit/ebin" type="simple" />
+            <root url="file:///usr/local/lib/elixir/lib/elixir/ebin" type="simple" />
+            <root url="file:///usr/local/lib/elixir/lib/logger/ebin" type="simple" />
+            <root url="file:///usr/local/lib/elixir/lib/iex/ebin" type="simple" />
+            <root url="file:///usr/local/lib/elixir/lib/mix/ebin" type="simple" />
+            <root url="file:///usr/local/lib/elixir/lib/eex/ebin" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="https://hexdoc.pm/ex_unit" type="simple" />
+            <root url="https://hexdoc.pm/elixir" type="simple" />
+            <root url="https://hexdoc.pm/logger" type="simple" />
+            <root url="https://hexdoc.pm/iex" type="simple" />
+            <root url="https://hexdoc.pm/mix" type="simple" />
+            <root url="https://hexdoc.pm/eex" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
