@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'vsc-gradle'" />
-    <option name="defaultScopeName" value="Project 'vsc-gradle'" />
-    <option name="SEARCH_SCOPE" value="Project 'vsc-gradle'" />
+    <option name="customScope" value="Project 'jvmcode'" />
+    <option name="defaultScopeName" value="Project 'jvmcode'" />
+    <option name="SEARCH_SCOPE" value="Project 'jvmcode'" />
   </component>
 </application>
