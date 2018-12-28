@@ -21,6 +21,7 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="createPaymentRequest" type="Groovy" />
+      <mapping pattern="Kt2TsPlugin" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="tab" type="PLAIN_TEXT" />
