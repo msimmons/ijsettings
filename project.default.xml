@@ -1,143 +1,12 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="Encoding">
-        <file url="PROJECT" charset="UTF-8" />
-      </component>
-      <component name="GradleLocalSettings">
-        <option name="modificationStamps">
-          <map>
-            <entry key="$USER_HOME$/cinch/credit-recommender" value="1481897344170" />
-            <entry key="$USER_HOME$/cinch/keyper" value="2959824215196" />
-            <entry key="$USER_HOME$/cinch/mx" value="1480945754645" />
-            <entry key="$USER_HOME$/cinch/ontologist" value="1481897351342" />
-            <entry key="$USER_HOME$/cinch/quasimodo" value="2963798810428" />
-            <entry key="$USER_HOME$/cinch/strategist" value="1481897334774" />
-            <entry key="$USER_HOME$/cinch/user-facts" value="2963794848190" />
-            <entry key="$USER_HOME$/cinch/user-profile" value="2965011900412" />
-            <entry key="$USER_HOME$/cinch/whisper-wb" value="2979538612496" />
-            <entry key="$USER_HOME$/gazelle/amq" value="7260601735122" />
-            <entry key="$USER_HOME$/gazelle/cmo" value="14521203190268" />
-            <entry key="$USER_HOME$/gazelle/erp" value="23223853105444" />
-            <entry key="$USER_HOME$/gazelle/esn_check" value="1456184990222" />
-            <entry key="$USER_HOME$/gazelle/etl" value="4375709651996" />
-            <entry key="$USER_HOME$/gazelle/exact-target" value="7260601665662" />
-            <entry key="$USER_HOME$/gazelle/payments" value="10164842284022" />
-            <entry key="$USER_HOME$/gazelle/rules" value="5810773999020" />
-            <entry key="$USER_HOME$/gazelle/wms" value="13069082783178" />
-            <entry key="$USER_HOME$/work/dhlp" value="1446160278000" />
-            <entry key="$USER_HOME$/work/neofact" value="1484411240944" />
-          </map>
-        </option>
-        <option name="projectSyncType">
-          <map>
-            <entry key="$USER_HOME$/cinch/sluice" value="PREVIEW" />
-            <entry key="$USER_HOME$/work/jdbcode" value="PREVIEW" />
-            <entry key="$USER_HOME$/work/kradle/server" value="PREVIEW" />
-            <entry key="$USER_HOME$/work/vertek" value="PREVIEW" />
-            <entry key="$USER_HOME$/work/vsc-gradle" value="PREVIEW" />
-          </map>
-        </option>
-      </component>
-      <component name="ProjectInspectionProfilesVisibleTreeState">
-        <entry key="Project Default">
-          <profile-state>
-            <expanded-state>
-              <State>
-                <id />
-              </State>
-              <State>
-                <id>Class structureJava</id>
-              </State>
-              <State>
-                <id>Code maturity issuesJava</id>
-              </State>
-              <State>
-                <id>Java</id>
-              </State>
-              <State>
-                <id>Java language level migration aidsJava</id>
-              </State>
-              <State>
-                <id>Javadoc issuesJava</id>
-              </State>
-              <State>
-                <id>Performance issuesJava</id>
-              </State>
-              <State>
-                <id>TestNGJava</id>
-              </State>
-              <State>
-                <id>Threading issuesJava</id>
-              </State>
-            </expanded-state>
-            <selected-state>
-              <State>
-                <id>Android</id>
-              </State>
-            </selected-state>
-          </profile-state>
-        </entry>
-      </component>
-      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" />
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
       <component name="PropertiesComponent">
-        <property name="GoToClass.includeLibraries" value="false" />
-        <property name="GoToClass.toSaveIncludeLibraries" value="false" />
-        <property name="GoToFile.includeJavaFiles" value="false" />
-        <property name="MemberChooser.sorted" value="false" />
-        <property name="MemberChooser.showClasses" value="true" />
-        <property name="MemberChooser.copyJavadoc" value="false" />
-        <property name="settings.editor.selected.configurable" value="preferences.updates" />
         <property name="project.structure.last.edited" value="Project" />
         <property name="project.structure.proportion" value="0.0" />
         <property name="project.structure.side.proportion" value="0.2" />
-        <property name="last_opened_file_path" value="$USER_HOME$/cinch" />
-      </component>
-      <component name="RunManager">
-        <configuration default="true" type="Applet" factoryName="Applet">
-          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-        </configuration>
-        <configuration default="true" type="Application" factoryName="Application">
-          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-        </configuration>
-        <configuration default="true" type="TestNG" factoryName="TestNG">
-          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-          <option name="ALTERNATIVE_JRE_PATH" />
-          <option name="SUITE_NAME" />
-          <option name="PACKAGE_NAME" />
-          <option name="MAIN_CLASS_NAME" />
-          <option name="METHOD_NAME" />
-          <option name="GROUP_NAME" />
-          <option name="TEST_OBJECT" value="CLASS" />
-          <option name="VM_PARAMETERS" value="-ea" />
-          <option name="PARAMETERS" />
-          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-          <option name="OUTPUT_DIRECTORY" />
-          <option name="PASS_PARENT_ENVS" value="true" />
-          <option name="TEST_SEARCH_SCOPE">
-            <value defaultName="singleModule" />
-          </option>
-          <option name="USE_DEFAULT_REPORTERS" value="false" />
-          <option name="PROPERTIES_FILE" />
-          <properties />
-          <listeners />
-        </configuration>
-        <configuration default="true" type="Remote" factoryName="Remote">
-          <option name="USE_SOCKET_TRANSPORT" value="true" />
-          <option name="SERVER_MODE" value="false" />
-          <option name="SHMEM_ADDRESS" value="javadebug" />
-          <option name="HOST" value="localhost" />
-          <option name="PORT" value="5005" />
-        </configuration>
-        <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-          <module name="" />
-          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-          <option name="PROGRAM_PARAMETERS" />
-          <predefined_log_file id="idea.log" enabled="true" />
-        </configuration>
-      </component>
-      <component name="VcsContentAnnotationSettings">
-        <option name="myLimit" value="2678400000" />
+        <property name="settings.editor.selected.configurable" value="configurable.group.build" />
       </component>
       <component name="masterDetails">
         <states>
@@ -154,19 +23,7 @@
           </state>
           <state key="JdkListConfigurable.UI">
             <settings>
-              <last-edited>1.8</last-edited>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-          <state key="ProjectJDKs.UI">
-            <settings>
-              <last-edited>1.7</last-edited>
+              <last-edited>11</last-edited>
               <splitter-proportions>
                 <option name="proportions">
                   <list>
@@ -177,17 +34,6 @@
             </settings>
           </state>
           <state key="ProjectLibrariesConfigurable.UI">
-            <settings>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-          <state key="ScopeChooserConfigurable.UI">
             <settings>
               <splitter-proportions>
                 <option name="proportions">
