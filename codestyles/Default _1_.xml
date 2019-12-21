@@ -29,12 +29,17 @@
   </codeStyleSettings>
   <codeStyleSettings language="JAVA">
     <indentOptions>
-      <option name="CONTINUATION_INDENT_SIZE" value="6" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="XML">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="6" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="kotlin">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
