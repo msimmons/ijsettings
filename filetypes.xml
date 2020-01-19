@@ -17,16 +17,4 @@
     </extensionMap>
     <setting name="fileTypeChangedCounter" value="1" />
   </component>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
-      <mapping pattern="createPaymentRequest" type="Groovy" />
-      <mapping pattern="Kt2TsPlugin" type="PLAIN_TEXT" />
-      <mapping ext="bin" type="PLAIN_TEXT" />
-      <mapping ext="tab" type="PLAIN_TEXT" />
-      <mapping ext="g4" type="PLAIN_TEXT" />
-      <mapping ext="out" type="PLAIN_TEXT" />
-      <mapping ext="lock" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
 </application>
